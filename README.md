@@ -12,7 +12,7 @@ This project explores the intersection of continuous-time quantum walks on graph
 
 **How to Use:**
 1. Clone the repository to your local machine.
-2. Open the Jupyter Notebook provided to explore the implementation and understand the concepts.
+2. Open the Jupyter Notebook [QuantumWalksGraphsApprox.ipynb] provided to explore the implementation and understand the concepts.
 3. Execute the code cells to run the quantum approach for solving the Max-Cut problem.
 4. Customize and extend the implementation for your own optimization challenges.
 
